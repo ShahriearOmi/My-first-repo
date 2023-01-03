@@ -9,3 +9,8 @@ p{
     border: 5px solid black;
     border-radius: 25px;
 }
+
+*{
+    margin: 0;
+    padding: 0; 
+}
